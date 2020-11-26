@@ -1,3 +1,4 @@
+// Assign array of questions to module.export
 module.exports = [
     {
         name: 'title',
