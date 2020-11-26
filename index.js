@@ -1,5 +1,5 @@
 // Variable for array of questions
-const questions = require("./questions");
+const questions = require("./utils/questions");
 // Variables for packages
 const { prompt } = require("inquirer");
 const { writeFile } = require("fs/promises");
