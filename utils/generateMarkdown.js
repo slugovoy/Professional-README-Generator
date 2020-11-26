@@ -10,6 +10,7 @@ function generateMarkdown({
   github,
   email,
 }) {
+  //  Return template of README
   return  ` 
 # ${title}
 
@@ -47,9 +48,9 @@ ${test}
 ${license}
 
 ## Questions
-GitHub profile:  https://github.com/${github}
+GitHub profile: [${github}](https://github.com/${github})
 
 Email: ${email}`;
 }
-
+// Export function
 module.exports = generateMarkdown;
