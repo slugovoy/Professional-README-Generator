@@ -2,7 +2,7 @@
 
 When creating a project on GitHub, it is necessary to have a professional README for application. You need to explain what is the purpose of this app, how to install it, how to report issues, and how to make contributions.
 
-You can easy create a README.md by using this application that based on command-line input and running with Node.js.
+You can easy create a README.md by using this application that based on command-line input and running with Node.js. Checkout the [README'sExample](./utils/README'sExample.md) in this repo that was created as an example.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -28,7 +28,7 @@ node index.js
 
 *Gif and instructions for use:
 
-![]()
+![homeworkDemo](./utils/homeworkDemo.gif)
 
 When you run `node index.js`, the app uses the `inquirer package` to ask you in the command line a questions about your project and your contact information, such as GitHub username and email address.
 
