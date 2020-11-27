@@ -26,7 +26,7 @@ node index.js
 ```
 ## Usage
 
-*Gif and instructions for use:
+* Gif and instructions for use:
 
 ![homeworkDemo](./utils/homeworkDemo.gif)
 
