@@ -2,7 +2,7 @@
 
 When creating a project on GitHub, it is necessary to have a professional README for application. You need to explain what is the purpose of this app, how to install it, how to report issues, and how to make contributions.
 
-You can easy create a README.md by using this application that based on command-line input and running with Node.js. Checkout the [README'sExample](./utils/README'sExample.md) in this repo that was created as an example.
+You can easy create a README.md by using this application that based on command-line input and running with Node.js. Checkout the [README'sExample](./utils/README'sExample.md) in this repo that was created as an example. Also you can check out the walkthrough video [here](./utils/homeworkDemo.gif)
 
 ## Table of Contents
 * [Installation](#installation)
